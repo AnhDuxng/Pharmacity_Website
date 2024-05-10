@@ -14,7 +14,7 @@ This repository contains the files used for generating the clone of Pharmacity w
 - Github
 - XAMPP
   
-### List of website functions
+## List of website functions
 --------------------------------------
 I. For user
 * Homepage
@@ -36,12 +36,12 @@ II. For Administrator
 * Print Invoices
 * Print Balance Sheet
 
-#### Demo of Homepage Visual
-[Imgur](https://i.imgur.com/dauB5Wr.png)
+## Demo of Homepage Visual
+![Imgur](https://i.imgur.com/dauB5Wr.png)
 Homepage
-[Imgur](https://i.imgur.com/mc9q8df.png)
+![Imgur](https://i.imgur.com/mc9q8df.png)
 Product Detail
-[Imgur](https://i.imgur.com/ZKRo9yJ.png)
+![Imgur](https://i.imgur.com/ZKRo9yJ.png)
 Admin Panel
-[Imgur](https://i.imgur.com/H8WqbLN.png)
+![Imgur](https://i.imgur.com/H8WqbLN.png)
 Employee Panel
