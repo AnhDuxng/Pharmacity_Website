@@ -1,5 +1,4 @@
 # PHARMACITY WEBSITE CLONE ![build](https://github.com/mono/website/workflows/build/badge.svg)
-========================================================================================
 
 This is a project which I colaborate with an accounting college to implement a website with multi functions for both customers and administrators. A clone of Pharmacity website that contain the UI for landing page and the admin panel design for accounting management such as manage products, print invoices and revenue. 
 
