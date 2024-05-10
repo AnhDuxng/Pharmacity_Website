@@ -38,10 +38,10 @@ II. For Administrator
 
 ## Demo of Homepage Visual
 ![Imgur](https://i.imgur.com/dauB5Wr.png)
-Homepage
+<p align="justify"> Homepage </p>
 ![Imgur](https://i.imgur.com/mc9q8df.png)
-Product Detail
+<p align="justify"> Product Detailed </p>
 ![Imgur](https://i.imgur.com/ZKRo9yJ.png)
-Admin Panel
+<p align="justify"> Admin Panel </p>
 ![Imgur](https://i.imgur.com/H8WqbLN.png)
-Employee Panel
+<p align="justify"> Employee Panel </p>
