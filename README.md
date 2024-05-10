@@ -36,12 +36,15 @@ II. For Administrator
 * Print Invoices
 * Print Balance Sheet
 
-## Demo of Homepage Visual
+### Demo of Homepage Visual
 ![Imgur](https://i.imgur.com/dauB5Wr.png)
-================ Homepage ===============
+
+### Demo of Product Detailed Visual
 ![Imgur](https://i.imgur.com/mc9q8df.png)
-============ Product Detailed ===========
+
+### Demo of Admin Panel Visual
 ![Imgur](https://i.imgur.com/ZKRo9yJ.png)
-============= Admin Panel ==============
+
+### Demo of Employee Panel Visual
 ![Imgur](https://i.imgur.com/H8WqbLN.png)
-=========== Employee Panel ============== 
+
