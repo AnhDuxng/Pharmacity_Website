@@ -17,14 +17,14 @@ This repository contains the files used for generating the clone of Pharmacity w
   
 ### List of website functions
 --------------------------------------
-- For user
+I. For user
 * Homepage
 * Product detailed page
 * Register/Log-in/Log-out
 * Cart
 * Checkout
 
-- For Administrator
+II. For Administrator
 1. For Employee
 * Log-in/Log-out
 * Create/Read/Update/Delete product
@@ -38,11 +38,11 @@ This repository contains the files used for generating the clone of Pharmacity w
 * Print Balance Sheet
 
 #### Demo of Homepage Visual
-![Imgur](https://imgur.com/dauB5Wr)
+[Imgur](https://i.imgur.com/dauB5Wr.png)
 Homepage
-![Imgur](https://imgur.com/mc9q8df)
+[Imgur](https://i.imgur.com/mc9q8df.png)
 Product Detail
-![Imgur](https://imgur.com/ZKRo9yJ)
+[Imgur](https://i.imgur.com/ZKRo9yJ.png)
 Admin Panel
-![Imgur](https://imgur.com/H8WqbLN)
+[Imgur](https://i.imgur.com/H8WqbLN.png)
 Employee Panel
